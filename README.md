@@ -1,6 +1,6 @@
 # Application to predict Genre or Artist of an Audio file
 
-In order to run this application, you should install below packages in your system.
+Following packages should be installed in the local system to run this application.
 
 - Python 3.6 or above
 - install pyaudiodub
